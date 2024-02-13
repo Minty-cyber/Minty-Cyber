@@ -13,4 +13,4 @@ I'm a Web App developer and aspiring mobile app developer, dedicated to crafting
 - 😄 I love to sing...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minty-cyber&show_icons=true&theme=synthwave)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Minty-cyber&repo=github-readme-stats)](https://github.com/Minty-cyber/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minty-cyber&layout=compact)
