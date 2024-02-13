@@ -46,7 +46,7 @@ Programming Languages
 
 Tools and Frameworks
 -------------------
-<p style="margin-left: 20px;">
+<p>
     <a href="https://github.com/Minty-cyber/convoychat">
         <img align="center" src="https://skillicons.dev/icons?i=django,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
@@ -67,8 +67,6 @@ Tools and Frameworks
     </a>
 </p>
 
-    <!-- Add more icons here with appropriate spacing -->
-</p>
 
 
 
