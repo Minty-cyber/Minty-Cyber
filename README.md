@@ -28,13 +28,13 @@ I'm a Web App developer and aspiring mobile app developer, dedicated to crafting
 
 Programming Languages
 -------------------
-<p style="margin-left: 20px;">
+<p style="margin-left: 100px;">
     <a href="https://github.com/Minty-cyber/convoychat">
         <img align="center" src="https://skillicons.dev/icons?i=python,javascript,c,html,&theme=dark" alt="Programming Languages Icons">
     </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,c,html,&theme=dark)](https://skillicons.dev)
+
 
 
 
