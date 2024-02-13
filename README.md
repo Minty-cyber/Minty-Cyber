@@ -13,10 +13,10 @@ I'm a Web App developer and aspiring mobile app developer, dedicated to crafting
 - 😄 I love to sing...
 
 <a href="https://github.com/Minty-cyber/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=Minty-cyber&show_icons=true&theme=synthwave)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Minty-cyber&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/Minty-cyber/convoychat">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=Minty-cyber&layout=compact&theme=dark)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minty-cyber&layout=compact&theme=dark" />
 </a>
 
 
