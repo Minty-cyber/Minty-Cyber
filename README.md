@@ -23,7 +23,7 @@ I'm a Web App developer and aspiring mobile app developer, dedicated to crafting
 Programming Languages
 ----------------
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,python,html,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,c,html,&theme=dark)](https://skillicons.dev)
 
 
 
