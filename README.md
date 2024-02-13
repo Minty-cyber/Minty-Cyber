@@ -11,3 +11,5 @@ I'm a Web App developer and aspiring mobile app developer, dedicated to crafting
 - 💬 I am also into movies, anime and movie theme songs especially ones that are very captivating
 - 📫 You can reach me one LinkedIn [https://www.linkedin.com/in/jeffrey-m-a846a2229]
 - 😄 I love to sing...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minty-cyber)](https://github.com/anuraghazra/github-readme-stats)
