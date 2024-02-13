@@ -33,13 +33,13 @@ Programming Languages
         <img  src="https://skillicons.dev/icons?i=python,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
     <a href="https://github.com/Minty-cyber/convoychat">
-        <img align="center" src="https://skillicons.dev/icons?i=javascript,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=javascript,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
    <a href="https://github.com/Minty-cyber/convoychat">
-        <img align="center" src="https://skillicons.dev/icons?i=c,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
+        <img  src="https://skillicons.dev/icons?i=c,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
   <a href="https://github.com/Minty-cyber/convoychat">
-        <img align="center" src="https://skillicons.dev/icons?i=html,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
+        <img  src="https://skillicons.dev/icons?i=html,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
     <!-- Add more icons here with appropriate spacing -->
 </p>
@@ -48,22 +48,22 @@ Tools and Frameworks
 -------------------
 <p>
     <a href="https://github.com/Minty-cyber/convoychat">
-        <img align="center" src="https://skillicons.dev/icons?i=django,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
+        <img  src="https://skillicons.dev/icons?i=django,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
     <a href="https://github.com/Minty-cyber/convoychat">
-        <img align="center" src="https://skillicons.dev/icons?i=react,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
+        <img  src="https://skillicons.dev/icons?i=react,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
     <a href="https://github.com/Minty-cyber/convoychat">
-        <img align="center" src="https://skillicons.dev/icons?i=docker,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=docker,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
     <a href="https://github.com/Minty-cyber/convoychat">
-        <img align="center" src="https://skillicons.dev/icons?i=postgres,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
+        <img  src="https://skillicons.dev/icons?i=postgres,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
     <a href="https://github.com/Minty-cyber/convoychat">
-        <img align="center" src="https://skillicons.dev/icons?i=postman,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=postman,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
     <a href="https://github.com/Minty-cyber/convoychat">
-        <img align="center" src="https://skillicons.dev/icons?i=render,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
+        <img  src="https://skillicons.dev/icons?i=render,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
 </p>
 
