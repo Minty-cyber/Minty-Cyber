@@ -12,4 +12,4 @@ I'm a Web App developer and aspiring mobile app developer, dedicated to crafting
 - 📫 You can reach me one LinkedIn [https://www.linkedin.com/in/jeffrey-m-a846a2229]
 - 😄 I love to sing...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minty-cyber)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minty-cyber&show_icons=true&theme=synthwave)
