@@ -30,7 +30,7 @@ Programming Languages
 -------------------
 <p style="margin-left: 20px;">
     <a href="https://github.com/Minty-cyber/convoychat">
-        <img align="center" src="https://skillicons.dev/icons?i=python,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
+        <img  src="https://skillicons.dev/icons?i=python,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
     <a href="https://github.com/Minty-cyber/convoychat">
         <img align="center" src="https://skillicons.dev/icons?i=javascript,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
