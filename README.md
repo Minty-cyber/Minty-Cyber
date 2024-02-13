@@ -15,4 +15,5 @@ I'm a Web App developer and aspiring mobile app developer, dedicated to crafting
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minty-cyber&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minty-cyber&layout=compact&theme=dark)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Minty-cyber)](https://github.com/Minty-cyber/github-readme-stats)
 
