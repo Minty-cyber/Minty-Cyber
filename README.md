@@ -23,11 +23,12 @@ I'm a Web App developer and aspiring mobile app developer, dedicated to crafting
 Programming Languages
 ----------------
 
-<p align="space-between">
+<p style="display: flex; justify-content: space-between;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
+
 
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,c,html,&theme=dark)](https://skillicons.dev)
 
