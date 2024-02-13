@@ -23,9 +23,7 @@ I'm a Web App developer and aspiring mobile app developer, dedicated to crafting
 Programming Languages
 ----------------
 
-<a href="https://github.com/Minty-cyber/convoychat">
-  <img align="center" src="https://img.icons8.com/color/48/000000/python.png" height="50" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=javascript,python,html,figma&theme=dark)](https://skillicons.dev)
 
 
 
