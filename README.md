@@ -24,7 +24,7 @@ Programming Languages
 ----------------
 
 <a href="https://github.com/Minty-cyber/convoychat">
-  <img align="center" src="https://img.icons8.com/color/48/000000/python.png" height="80" />
+  <img align="center" src="https://img.icons8.com/color/48/000000/python.png" height="50" />
 </a>
 
 
