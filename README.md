@@ -15,8 +15,10 @@ I'm a Web App developer and aspiring mobile app developer, dedicated to crafting
 - 💬 I am also into movies, anime and movie theme songs especially ones that are very captivating.
 
 - 📫 You can reach me on LinkedIn [https://www.linkedin.com/in/jeffrey-m-a846a2229]
+  
+- 📋 Have glance over my tech articles on hashnode [https://jeffmint.hashnode.dev/building-a-crud-application-with-react-and-django-a-todo-application]
 
-- 😄 I love to sing...
+- 😄Fun Fact: I love to sing...
 
 <a href="https://github.com/Minty-cyber/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Minty-cyber&show_icons=true&theme=synthwave" />
