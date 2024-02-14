@@ -38,10 +38,6 @@ Programming Languages
    <a href="https://github.com/Minty-cyber/convoychat">
         <img  src="https://skillicons.dev/icons?i=c,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
   </a>
-  <a href="https://github.com/Minty-cyber/convoychat">
-        <img  src="https://skillicons.dev/icons?i=html,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
-  </a>
-    <!-- Add more icons here with appropriate spacing -->
 </p>
 
 Tools and Frameworks
