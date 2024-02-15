@@ -16,7 +16,7 @@ I'm a Web App developer and aspiring mobile app developer, dedicated to crafting
 
 - 📫 You can reach me on LinkedIn [https://www.linkedin.com/in/jeffrey-m-a846a2229]
   
-- 📋 Have glance over my tech articles on hashnode [https://jeffmint.hashnode.dev/]
+- 📋 Have a glance over my tech articles on hashnode [https://jeffmint.hashnode.dev/]
 
 - 😄Fun Fact: I love to sing...
 
