@@ -46,16 +46,16 @@ Tools and Frameworks
 -------------------
 <p>
     <a href="https://github.com/Minty-cyber/convoychat">
-        <img  src="https://skillicons.dev/icons?i=django,&theme=dark">
+        <img src="https://skillicons.dev/icons?i=django,&theme=dark">
     </a>
     <a href="https://github.com/Minty-cyber/convoychat">
-        <img  src="https://skillicons.dev/icons?i=react,&theme=dark" style="margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=react,&theme=dark" style="margin-right: 10px;">
     </a>
     <a href="https://github.com/Minty-cyber/convoychat">
-        <img src="https://skillicons.dev/icons?i=docker,&theme=dark"  style="margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=docker,&theme=dark" style="margin-right: 10px;">
     </a>
     <a href="https://github.com/Minty-cyber/convoychat">
-        <img  src="https://skillicons.dev/icons?i=postgres,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=postgres,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
     <a href="https://github.com/Minty-cyber/convoychat">
         <img src="https://skillicons.dev/icons?i=postman,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
@@ -69,10 +69,9 @@ Tools and Frameworks
     <a href="https://github.com/Minty-cyber/convoychat">
         <img src="https://skillicons.dev/icons?i=tailwind,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
-     <a href="https://github.com/Minty-cyber/convoychat">
+    <a href="https://github.com/Minty-cyber/convoychat">
         <img src="https://skillicons.dev/icons?i=sqlite,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
-     </a>
-  
+    </a>
 </p>
 
 
