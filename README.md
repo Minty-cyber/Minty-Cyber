@@ -70,7 +70,7 @@ Tools and Frameworks
         <img src="https://skillicons.dev/icons?i=tailwind,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
      <a href="https://github.com/Minty-cyber/convoychat">
-        <img src="https://skillicons.dev/icons?i=tailwind,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=sqlite,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
      </a>
   
 </p>
