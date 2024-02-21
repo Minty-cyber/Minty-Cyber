@@ -3,7 +3,7 @@
 
 I'm a developer who loves making websites and apps that people enjoy using. Whether it's a cool website or a slick mobile app, I'm all about creating awesome digital stuff that users love.
 
-- 🔭 I'm currently diving into projects that redefine how users engage with digital platforms. Whether it's crafting groundbreaking web apps or designing sleek mobile interfaces, my focus is on creating top-notch solutions that captivate and delight users at every turn.
+- 🔭 I'm currently diving into projects that redefine how users engage with digital platforms.
 
 - 🌱 I’m currently learning Flutter and ReactJs
 
