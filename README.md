@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hi_there_I_am_Jeffrey_Mintah&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=Jeffrey_Mintah&animation=twinkling)
 
 
 I'm a developer who loves making websites and apps that people enjoy using. Whether it's a cool website or a slick mobile app, I'm all about creating awesome digital stuff that users love.
