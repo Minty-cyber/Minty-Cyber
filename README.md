@@ -1,5 +1,3 @@
-### 📱💻🧰
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 ![header](https://capsule-render.vercel.app/api?text=Hi_there_I_am_Jeffrey_Mintah&animation=fadeIn)
 
 
