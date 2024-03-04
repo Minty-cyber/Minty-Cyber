@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Jeffrey_Mintah&animation=twinkling)
 
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?text=Jeffrey_Mintah&animation=twinklingtype=slice)
 
 I'm a developer who loves making websites and apps that people enjoy using. Whether it's a cool website or a slick mobile app, I'm all about creating awesome digital stuff that users love.
 
