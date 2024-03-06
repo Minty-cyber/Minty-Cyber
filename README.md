@@ -2,7 +2,7 @@
 
 
 
-I'm a developer who loves making websites and apps that people enjoy using. Whether it's a cool website or a slick mobile app, I'm all about creating awesome digital stuff that users love.
+I love making interesting and fascinating stuff with Programming.
 
 - 🔭 I'm currently diving into projects that redefine how users engage with digital platforms.
 
