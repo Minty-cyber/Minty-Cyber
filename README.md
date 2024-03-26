@@ -68,6 +68,8 @@ Tools and Frameworks
   </a>
 </div>
 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 <p>
     <a href="https://github.com/Minty-cyber/convoychat">
         <img src="https://skillicons.dev/icons?i=django,&theme=dark">
@@ -94,7 +96,6 @@ Tools and Frameworks
         <img src="https://skillicons.dev/icons?i=tailwind,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
 </p>
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 
