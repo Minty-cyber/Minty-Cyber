@@ -1,6 +1,6 @@
-<div align="center" style="font-size: 36px; font-family: 'Arial', sans-serif;">
-JEFFREY MINTAH
-</div>
+
+# JEFFREY MINTAH
+
 
 
 
