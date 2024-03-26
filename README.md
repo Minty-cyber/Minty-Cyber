@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?text=Jeffrey_Mintah&animation=twinkling)
 
 
-
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZteGU1eWhtbW5qcTFhczZtb255OXI3eWttbzV4OGxwdHF2dmJkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
+</div>
 I love making interesting and fascinating stuff with Programming.
 
 - 🔭 I'm currently diving into projects that redefine how users engage with digital platforms.
