@@ -46,10 +46,10 @@ Tools and Frameworks
 -------------------
 <p>
     <a href="https://github.com/Minty-cyber/convoychat">
-        <img src="https://skillicons.dev/icons?i=django&theme=dark">
+        <img src="https://skillicons.dev/icons?i=django,&theme=dark">
     </a>
     <a href="https://github.com/Minty-cyber/convoychat">
-        <img src="https://skillicons.dev/icons?i=react,&theme=dark" style="margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=react,&theme=dark" >
     </a>
     <a href="https://github.com/Minty-cyber/convoychat">
         <img src="https://skillicons.dev/icons?i=docker,&theme=dark" style="margin-right: 10px;">
