@@ -7,6 +7,8 @@
   <a href="https://jeffmint.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white">
   </a>
+</div>
+<div align="center">
   <a href="https://www.linkedin.com/in/jeffrey-m-a846a2229">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
