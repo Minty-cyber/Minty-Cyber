@@ -5,6 +5,10 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Minty-cyber&style=flat-square&color=blue" alt=""/>
+  <a href="https://jeffmint.hashnode.dev/">
+    ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+  </a>
+  
 </div>
 
 <div align="center">
@@ -29,7 +33,7 @@
 - 💬 I am also into movies, anime and movie theme songs, especially ones that are very captivating.
 
 - 📫 You can reach me on LinkedIn 
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/jeffrey-m-a846a2229)">
+  <a href="https://www.linkedin.com/in/jeffrey-m-a846a2229">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
