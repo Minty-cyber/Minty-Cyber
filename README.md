@@ -1,5 +1,5 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?text=Jeffrey_Mintah&animation=twinkling)
+# JEFFREY MINTAH
 </div>
 
 
