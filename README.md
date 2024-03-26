@@ -28,7 +28,15 @@
 
 - 💬 I am also into movies, anime and movie theme songs, especially ones that are very captivating.
 
-- 📫 You can reach me on LinkedIn [https://www.linkedin.com/in/jeffrey-m-a846a2229]
+- 📫 You can reach me on LinkedIn 
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/jeffrey-m-a846a2229)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
   
 - 📋 Have a glance over my tech articles on hashnode [https://jeffmint.hashnode.dev/]
 
@@ -45,29 +53,13 @@
 Programming Languages
 -------------------
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<p style="margin-left: 20px;">
-    <a href="https://github.com/Minty-cyber/convoychat">
-        <img  src="https://skillicons.dev/icons?i=py,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
-    </a>
-    <a href="https://github.com/Minty-cyber/convoychat">
-        <img src="https://skillicons.dev/icons?i=javascript,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
-    </a>
-   <a href="https://github.com/Minty-cyber/convoychat">
-        <img  src="https://skillicons.dev/icons?i=c,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
-  </a>
-</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 Tools and Frameworks
 -------------------
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -78,41 +70,5 @@ Tools and Frameworks
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-<p>
-    <a href="https://github.com/Minty-cyber/convoychat">
-        <img src="https://skillicons.dev/icons?i=django,&theme=dark">
-    </a>
-    <a href="https://github.com/Minty-cyber/convoychat">
-        <img src="https://skillicons.dev/icons?i=react,&theme=dark" >
-    </a>
-    <a href="https://github.com/Minty-cyber/convoychat">
-        <img src="https://skillicons.dev/icons?i=docker,&theme=dark" style="margin-right: 10px;">
-    </a>
-    <a href="https://github.com/Minty-cyber/convoychat">
-        <img src="https://skillicons.dev/icons?i=postgres,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
-    </a>
-    <a href="https://github.com/Minty-cyber/convoychat">
-        <img src="https://skillicons.dev/icons?i=postman,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
-    </a>
-    <a href="https://github.com/Minty-cyber/convoychat">
-        <img src="https://skillicons.dev/icons?i=github,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
-    </a>
-    <a href="https://github.com/Minty-cyber/convoychat">
-        <img src="https://skillicons.dev/icons?i=nodejs,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
-    </a>
-    <a href="https://github.com/Minty-cyber/convoychat">
-        <img src="https://skillicons.dev/icons?i=tailwind,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
-    </a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
