@@ -6,7 +6,10 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Minty-cyber&style=flat-square&color=blue" alt=""/>
   <a href="https://jeffmint.hashnode.dev/">
-    ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+    <img src="https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jeffrey-m-a846a2229">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
 </div>
@@ -33,15 +36,7 @@
 - 💬 I am also into movies, anime and movie theme songs, especially ones that are very captivating.
 
 - 📫 You can reach me on LinkedIn 
-  <a href="https://www.linkedin.com/in/jeffrey-m-a846a2229">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    <img src="https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
-  </a>
-</div>
+
   
 - 📋 Have a glance over my tech articles on hashnode [https://jeffmint.hashnode.dev/]
 
