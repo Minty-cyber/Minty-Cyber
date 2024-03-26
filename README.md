@@ -44,6 +44,7 @@
 
 Programming Languages
 -------------------
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p style="margin-left: 20px;">
     <a href="https://github.com/Minty-cyber/convoychat">
         <img  src="https://skillicons.dev/icons?i=py,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
@@ -68,7 +69,12 @@ Tools and Frameworks
   </a>
 </div>
 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 <p>
     <a href="https://github.com/Minty-cyber/convoychat">
