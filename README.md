@@ -93,9 +93,7 @@ Tools and Frameworks
     <a href="https://github.com/Minty-cyber/convoychat">
         <img src="https://skillicons.dev/icons?i=tailwind,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
     </a>
-    <a href="https://github.com/Minty-cyber/convoychat">
-        <img src="https://skillicons.dev/icons?i=sqlite,&theme=dark" alt="Programming Languages Icons" style="margin-right: 10px;">
-    </a>
+    ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 </p>
 
 
