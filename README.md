@@ -1,4 +1,7 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?text=Jeffrey_Mintah&animation=twinkling)
+</div>
+
 
 
 <div id="header" align="center">
