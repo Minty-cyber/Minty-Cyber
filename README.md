@@ -23,7 +23,7 @@
 
 
 
- I love making interesting and fascinating stuff with Programming.
+ I love making interesting stuff with Programming.
 
 - 🔭 I'm currently diving into projects that redefine how users engage with digital platforms.
 
