@@ -43,12 +43,16 @@
 
 
 
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Minty-cyber&show_icons=true&theme=synthwave" />  
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Minty-cyber&theme=dark)](https://git.io/streak-stats)
+<div style="display:flex; justify-content:center; align-items:center;">
+    <div style="flex:1; margin-right:5px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Minty-cyber&show_icons=true&theme=synthwave" />
+    </div>
+    <div style="flex:1; margin-left:5px;">
+      [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+    </div>
 </div>
+
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minty-cyber&layout=compact&theme=dark" />
