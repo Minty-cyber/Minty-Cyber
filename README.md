@@ -41,14 +41,14 @@
 
 - 😄Fun Fact: I love to sing...
 
-<a href="https://github.com/Minty-cyber/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Minty-cyber&show_icons=true&theme=synthwave" />
-</a>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Minty-cyber&show_icons=true&theme=synthwave" />  [![GitHub Streak](https://streak-stats.demolab.com/?user=Minty-cyber&theme=dark)](https://git.io/streak-stats)
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minty-cyber&layout=compact&theme=dark" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Minty-cyber&theme=dark)](https://git.io/streak-stats)
 
 
 Programming Languages
@@ -74,6 +74,4 @@ Tools and Frameworks
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<a href="https://github.com/Minty-cyber/convoychat">
-  
-</a>
+
