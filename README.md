@@ -48,7 +48,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minty-cyber&layout=compact&theme=dark" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Minty-cyber1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Minty-cyber&theme=dark)](https://git.io/streak-stats)
 
 
 Programming Languages
