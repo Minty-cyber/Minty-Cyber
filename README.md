@@ -27,9 +27,9 @@
 
 - 🔭 I'm currently diving into projects that redefine how users engage with digital platforms.
 
-- 🌱 I’m currently learning Flutter and ReactJs
+- 🌱 I’m currently learning Flutter.
 
-- 👯 I’m looking to collaborate on cool Django, Python and React projects
+- 👯 I’m looking to collaborate on cool Django and Python projects.
 
 - 🤔 I'm eager to contribute to open source projects or collaborate on new ideas that challenge and inspire.
 
