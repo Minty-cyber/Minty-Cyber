@@ -33,13 +33,13 @@
 
 - 🤔 I'm eager to contribute to open source projects or collaborate on new ideas that challenge and inspire.
 
-- 💬 I am also into movies, anime and movie theme songs, especially ones that are very captivating.
+- 💬 I am also into movies, anime and movie theme songs.
 
 - 📫 You can reach me on LinkedIn [https://www.linkedin.com/in/jeffrey-m-a846a2229]
   
 - 📋 Have a glance over my tech articles on hashnode [https://jeffmint.hashnode.dev/]
 
-- 😄Fun Fact: I love to sing...
+- 😄Fun Fact: 
 
 
 
