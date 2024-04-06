@@ -39,7 +39,7 @@
   
 - 📋 Have a glance over my tech articles on hashnode [https://jeffmint.hashnode.dev/]
 
-- 😄Fun Fact: 
+- 😄Fun Fact: I call my PC Abigail
 
 
 
