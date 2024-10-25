@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/5d894da1-7f6e-4dd6-bc3e-c9aa21bf810a)
 <div id="header" align="center"> 
 
   <img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZteGU1eWhtbW5qcTFhczZtb255OXI3eWttbzV4OGxwdHF2dmJkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="200" style="border-radius: 50px;" />
@@ -62,7 +62,7 @@ Programming Languages
 Tools and Frameworks
 -------------------
 
-
+https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
