@@ -27,7 +27,7 @@
 
 - 🔭 I'm currently diving into projects that redefine how users engage with digital platforms.
 
-- 🌱 I’m currently exploring LangChain.
+- 🌱 I’m currently exploring Go. Soon to become a Gopher.
 
 - 👯 I’m looking to collaborate on cool Django and Python projects.
 
