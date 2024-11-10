@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently exploring Go. Soon to become a Gopher.
 
-- 👯 I’m looking to collaborate on cool Django and Python projects.
+- 👯 I’m down for any on cool Python and Go open source projects.
 
 - 🤔 I'm eager to contribute to open source projects or collaborate on new ideas that challenge and inspire.
 
