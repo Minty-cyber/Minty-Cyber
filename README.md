@@ -45,7 +45,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Minty-cyber&theme=radical)](https://git.io/streak-stats)
 [![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minty-cyber&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minty-cyber&hide=dart,c++,cmake,powershell,css,scss,html&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minty-cyber&hide=dart,cplusplus,cmake,powershell,css,scss,html&theme=radical)
 
 
 
