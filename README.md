@@ -1,1 +1,1 @@
-Just freestlying... 🚀
+Just freestyling... 🚀
